@@ -2,7 +2,7 @@
 # Website for a fictional Bakery
 #### A fullstack app.
 
-> A fullstack .NetCore 3.1 MVC app that implements CRUD functionality using EntityFrameworkCore, C# OOP, Routing, Tag Helpers, Partial Views, the ability to take orders with model binding on form, shopping cart,styles with Bootstrap and CSS3, JavaScript and jQuery on the frontend, and authentication and authorization with Microsoft Identity Framework.
+> A fullstack .NetCore 3.1 MVC app that implements CRUD functionality using EntityFrameworkCore, C# OOP, Routing, Tag Helpers, Partial Views, the ability to take orders with model binding on form, shopping cart,styles with Bootstrap and CSS3, JavaScripton the frontend, and authentication and authorization with Microsoft Identity Framework.
 
 #### Docs for dependencies:
 * [Entity Framework Core ORM](https://docs.microsoft.com/en-us/ef/core/)
